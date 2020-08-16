@@ -1,2 +1,5 @@
-AltCapus is based in a beautiful hill station called Dharmashala ,
-which is in India.
+
+AltCapus is based out of a beautiful hill station in the Indian 
+Himalayas called Dharmshala. At AltCampus, we love helping people 
+learn software development.
+
